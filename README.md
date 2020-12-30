@@ -8,9 +8,8 @@
 [7]: https://img.shields.io/github/v/release/hyird/Action-Openwrt
 [8]: https://github.com/garypang13/Actions-OpenWrt/releases
 [10]: https://img.shields.io/badge/Contact-telegram-blue
-[11]: 
-[12]: https://github.com/garypang13/Actions-OpenWrt/workflows/Openwrt-AutoBuild/badge.svg
-[13]: https://github.com/garypang13/Actions-OpenWrt/actions
+[11]: https://github.com/garypang13/Actions-OpenWrt/workflows/Openwrt-AutoBuild/badge.svg
+[12]: https://github.com/garypang13/Actions-OpenWrt/actions
 
 [![license][1]][2]
 [![GitHub Stars](https://img.shields.io/github/stars/garypang13/Actions-OpenWrt.svg?style=flat-square&label=Stars)](https://github.com/garypang13/Actions-OpenWrt-Nginx/stargazers)
