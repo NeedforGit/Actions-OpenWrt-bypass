@@ -11,5 +11,6 @@ touch /etc/config/placeholder
 sed -i '$a src/gz openwrt_packages2 https://op.supes.top/19.07.5/packages/x86_64/packages' /etc/opkg/distfeeds.conf
 sed -i '$a src/gz openwrt_base2 https://op.supes.top/19.07.5/packages/x86_64/base' /etc/opkg/distfeeds.conf
 sed -i '$a src/gz openwrt_custom https://op.supes.top/packages/x64' /etc/opkg/distfeeds.conf
+sed -i 's/10.0.0.1/192.168.1.1/g' package/base-files/files/bin/config_generate
 
 exit 0
