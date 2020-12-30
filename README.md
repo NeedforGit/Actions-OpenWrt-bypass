@@ -1,14 +1,6 @@
 # Actions OpenWrt Snapshot
 
 
-[![license][1]][2]
-[![GitHub Stars](https://img.shields.io/github/stars/garypang13/Actions-OpenWrt.svg?style=flat-square&label=Stars)](https://github.com/garypang13/Actions-OpenWrt-Nginx/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/garypang13/Actions-OpenWrt.svg?style=flat-square&label=Forks)](https://github.com/garypang13/Actions-OpenWrt-Nginx/fork)
-[![PRs Welcome][3]][4]
-[![Issue Welcome][5]][6]
-[![AutoBuild][12]][13]
-
-<a href="https://t.me/openwrt_nginx" target="_blank">Telegram</a>
 ### 特色:
 
 + Cutting edge,openwrt官方master分支版本,luci19.07 内核升级到5.4. 与官方最新源码同步.
